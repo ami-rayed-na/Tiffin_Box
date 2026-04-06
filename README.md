@@ -1,17 +1,2 @@
-# Quartz v4
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+# Tiffin_Box
+This repository contains everything I learn, documented in my own notes. From programming concepts to tools, best practices, and troubleshooting — I’m sharing my study journey openly.  Feel free to browse, use, or contribute. Whether you're a beginner or just curious, I hope these notes help you as much as they help me.
