@@ -1,4 +1,5 @@
 This is your new *vault*.
+[[My first note]] thik ache??
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
