@@ -1,11 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Tiffin_Box",
@@ -20,37 +15,37 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-  	fontOrigin: "googleFonts",
-  	cdnCaching: true,
-  	typography: {
-    		header: "Inter",
-    		body: "Inter",
-    		code: "JetBrains Mono",
-  	},
-  	colors: {
-    		lightMode: {
-      			light: "#ffffff",
-      			lightgray: "#ebedf0",
-      			gray: "#ababab",
-      			darkgray: "#5a5a5a",
-      			dark: "#222222",
-      			secondary: "#2e80f2",
-      			tertiary: "#3eb4bf",
-      			highlight: "rgba(255, 208, 0, 0.25)",
-    		},
-    		darkMode: {
-      			light: "#1c2127",
-      			lightgray: "#2c313c",
-     			 gray: "#666666",
-      			darkgray: "#bababa",
-      			dark: "#dadada",
-      			secondary: "#2e80f2",
-      			tertiary: "#3eb4bf",
-      			highlight: "rgba(255, 208, 0, 0.15)",
-    		},
-	    },
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
+      typography: {
+        header: "Inter",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
-},
+      colors: {
+        lightMode: {
+          light: "#ffffff",
+          lightgray: "#ebedf0",
+          gray: "#ababab",
+          darkgray: "#5a5a5a",
+          dark: "#222222",
+          secondary: "#2e80f2",
+          tertiary: "#3eb4bf",
+          highlight: "rgba(255, 208, 0, 0.25)",
+        },
+        darkMode: {
+          light: "#1c2127",
+          lightgray: "#2c313c",
+          gray: "#666666",
+          darkgray: "#bababa",
+          dark: "#dadada",
+          secondary: "#2e80f2",
+          tertiary: "#3eb4bf",
+          highlight: "rgba(255, 208, 0, 0.15)",
+        },
+      },
+    },
+  },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -86,7 +81,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
