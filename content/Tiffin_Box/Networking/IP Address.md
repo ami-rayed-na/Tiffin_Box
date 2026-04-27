@@ -10,7 +10,7 @@ To solve this problem the concept of IP address arise.
 
 ### Who invented??
 
-IP was not developed by overnight or by a person. It is a collaborated work from multiple researcher. But when ever IP address is mentioned history recalls Vint Cerf and Robert Kahn 
+IP was not developed by overnight or by a person. It is a collaborated work from multiple researcher. But when ever IP address is mentioned history recalls [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) and [Robert Kahn](https://en.wikipedia.org/wiki/Robert_Kahn_(computer_scientist)) 
 
 ### History
 
@@ -46,5 +46,5 @@ It means it can support $2^{128}$ or $3.4\times10^{38}$ devices with unique addr
 | Class A  |  1.0.0.0 to 127.255.255.255  | Very large networks (like multinational companies)                          |
 | Class B  | 128.0.0.0 to 191.255.255.255 | Medium-sized networks, such as large organizations                          |
 | Class C  | 192.0.0.0 to 223.255.255.255 | Smaller networks, like small businesses or home networks                    |
-| Class xD | 224.0.0.0 to 239.255.255.255 | Reserved for multicast groups.Not used for traditional devices or networks. |
+| Class D  | 224.0.0.0 to 239.255.255.255 | Reserved for multicast groups.Not used for traditional devices or networks. |
 | Class E  | 240.0.0.0 to 255.255.255.255 | Reserved for experimental purposes and future use                           |

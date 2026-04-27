@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Tiffin_Box
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a Second Brain. Wait!!!!!! system is under constraction.
+
