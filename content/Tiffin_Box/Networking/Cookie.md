@@ -144,8 +144,10 @@ This is why every website now greets you with a cookie consent banner. That popu
 -  Dark patterns that guilt you into accepting
 
 	These are called *dark patterns* — deliberately deceptive UI designed to trick you into consenting.
+```handwriting
+The cat and mouse game continues.................................. :)
+```
 
-> The cat and mouse game continues.................................. :)
 
 >[!tip] Lets think again
 >**Why Google hadn't face what Facebook had face??**
