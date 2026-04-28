@@ -40,11 +40,11 @@ These headers are sent back to clients after making server request.
 
 >[!Example] Example of Response header
 >```
-HTTP/1.1 200 OK
-Content-Type: application/json
-Content-Length: 128
-Cache-Control: private, max-age=300
-Set-Cookie: session=xyz789; HttpOnly; Secure
+>HTTP/1.1 200 OK
+>Content-Type: application/json
+>Content-Length: 128
+>Cache-Control: private, max-age=300
+>Set-Cookie: session=xyz789; HttpOnly; Secure
 >```
 
 | Header           | Example                    | Purpose                                                                                          |
