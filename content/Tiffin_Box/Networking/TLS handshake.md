@@ -1,3 +1,5 @@
+#basic #networking #https
+
 TLS *(Transport Layer Security)* Handshake is the process used to establish a secure connection between a client (browser) and a server before actual data communication begins.
 
 The TLS handshake is a core part of HTTPS communication. Its main purpose is to:

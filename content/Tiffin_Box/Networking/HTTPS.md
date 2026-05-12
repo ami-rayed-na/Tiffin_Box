@@ -1,4 +1,4 @@
-#basic #networking 
+#basic #networking #https 
 
 HTTPS stands for *Hyper Text Transfer Protocol Secure*. HTTPS is the modified version of [[HTTP]]. The only difference is encryption. Every data moves with encryption.
 
