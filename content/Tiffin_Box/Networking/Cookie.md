@@ -79,7 +79,7 @@ Now with DoubleClick they knew
 
 Combined — Google could build the most detailed picture of a human being ever assembled in history. Your thoughts, your conversations, your movements, your browsing — all of it.
 
-- [!] Then 'Facebook' came out at 2010, with the same machine from the social side. The surveillance economy was fully operational.
+- [ ] Then 'Facebook' came out at 2010, with the same machine from the social side. The surveillance economy was fully operational.
 
 
 **Act-6: The scale become clear**
