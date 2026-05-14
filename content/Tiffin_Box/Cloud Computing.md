@@ -43,5 +43,46 @@ That question led, eventually, to the cloud.
 	Cloud is infrastructure**
 		Most of the internet runs on AWS, Azure, or GCP. Cloud is no longer a trend — it's the foundation. New layers keep being added: serverless, edge computing, AI infrastructure.
 
+---
 
+### Service Model:
+
+There are three service models -
+
+- IaaS _(Infrastructure as a Service)_ : 
+	User rent raw compute, storage, and networking. User choose the operating system, install software, manage security patches. It is the most flexible option and the most hands-on.
+	
+	_Examples: Amazon EC2, Google Compute Engine
+	
+- PaaS _(Platform as a Service)_ :
+	The provider manages the underlying infrastructure. User focus on writing and deploying the application. The runtime, scaling, and patching are handled for user.
+	
+	_Examples: Heroku, Google App Engine, Vercel 
+	
+- SaaS _(Software as a Service)_ :
+	A fully built application delivered over the browser. You just log in and use it. The provider owns everything from the servers to the interface.
+	
+	_Examples: Gmail, Notion, Figma
+
+### Deployment Models
+
+Beyond _how_ services are delivered, there is the question of _where_ they run and _who_ can access them.
+
+- **Public cloud** — shared, multi-tenant infrastructure rented from a provider. The cheapest and most scalable option.
+- **Private cloud** — dedicated infrastructure, either hosted on-premises or by a third party, reserved for a single organization. Offers more control.
+- **Hybrid cloud** — a combination of public and private, connected so workloads can move between them. Common in enterprises with strict data requirements.
+- **Multi-cloud** — using two or more public cloud providers simultaneously, often to avoid dependence on a single vendor or to use best-in-class services from each.
+
+### Benefits of Cloud Computing
+
+- Global reach
+- Managed services
+- Pay as you go
+- Scalable 
+
+---
+
+Related Notes:
+
+[[AWS, The GodFather]]
 
