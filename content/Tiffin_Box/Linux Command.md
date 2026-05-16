@@ -15,4 +15,4 @@ Also we can create a file using `cat` command. Just a redirect, denoted with the
 user@ubuntu:~$ cat > flag.txt
 ```
 
-When you press <span style="color: #E57A81">ENTER</span>, linux will go into interactive mode & wait for you to start entering contents. This can be puzzling because the prompt disappear, just simply type your content it will go into the file 
+When you press <span class="lal">ENTER</span>, linux will go into interactive mode & wait for you to start entering contents. This can be puzzling because the prompt disappear, just simply type your content it will go into the file 
