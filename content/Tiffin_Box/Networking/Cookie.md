@@ -3,7 +3,7 @@
 Cookie is a small piece of data that is stored on computer. 
 
 It was invented by [Lou Montulli](https://en.wikipedia.org/wiki/Lou_Montulli) in 1994, at the age of 23. He invented it by solving a simple problem of online shopping cart. From then it become the most important and most controversial technology on web.
-==He named it after **Magic Cookie**--- a term from Unix programming for a small token passed between programs to maintain state.==
+<span class="lal">He named it after **Magic Cookie**--- a term from Unix programming for a small token passed between programs to maintain state.</span>
 
 ### Why we need 'Cookie' ?
 
