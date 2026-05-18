@@ -1,9 +1,5 @@
-@font-face {
-  font-family: 'RageItalic';
-  src: url('static/font/Rage_Italic_Std_Regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('/static/font/font-style.css');
+// put your custom CSS here!
 
 .handwriting {
   font-size: 1.2rem;
