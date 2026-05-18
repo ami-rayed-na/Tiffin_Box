@@ -1,13 +1,5 @@
-@import url('/static/font/font-style.css');
+@use "./base.scss";
 // put your custom CSS here!
-
-.handwriting {
-  font-size: 1.2rem;
-  font-family: 'RageItalic' ;
-  border: none;
-  padding: 0;
-  position: unset;
-}
 
 .lal{
   color: #E57A81;
