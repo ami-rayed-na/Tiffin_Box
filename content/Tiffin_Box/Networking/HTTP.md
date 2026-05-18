@@ -1,5 +1,8 @@
-#basic #networking 
-
+---
+tags:
+  - basic
+  - networking
+---
 HTTP stands for **Hyper Text Transfer Protocol**. It is the foundation of data communication on *World Wide Web*. A set of rules how message should transfer between server and browser.
 
  It was developed by [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) and his team between *1989-1991*.

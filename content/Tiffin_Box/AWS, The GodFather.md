@@ -1,5 +1,8 @@
-#cloud #histoty
-
+---
+tags:
+  - cloud
+  - histoty
+---
 Amazon Web Services (AWS) is the world's dominant cloud platform. It holds roughly **a third of the entire cloud market**, serves millions of customers across every industry, and generates more profit than Amazon's retail business. But its origin story is stranger,
 
 >[!tip] Origin story

@@ -1,5 +1,8 @@
-#basic #networking 
-
+---
+tags:
+  - basic
+  - networking
+---
 URL stands for **Uniform Resource Locator**. It tells the address of the resource on the internet. It tells the browser *where* & *how* to go there.
 
  ```

@@ -1,9 +1,13 @@
-#pico_ctf #general-skill 
+---
+tags:
+  - pico_ctf
+  - general-skill
+---
 
 >[!info] Description
-><img src="ping-cmd.png" alt="Description" style="float: right" width="400px">
->Can you make the server reveal its secrets? It seems to be able to ping Google DNS, but what happens if you get a little creative with your input?
->You can connect to the service here `nc mysterious-sea.picoctf.net 61738`
+>
+><img src="ping-cmd.png" alt="Description">
+
 
 
 >[!tip] Hint:

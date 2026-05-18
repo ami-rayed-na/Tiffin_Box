@@ -1,5 +1,8 @@
-#basic #networking 
-
+---
+tags:
+  - basic
+  - networking
+---
 When a HTTP server response, the first line always contains a 3-digit status code. Which informs clints about the outcome of the request.
 *It can classified under 5 classes--*
 

@@ -1,5 +1,7 @@
-tags: #networking, #basic
-
+---
+tags:
+  - basic
+  - networking
 ---
 IP (Internet Protocol) Address is a signature of a device, which helps to communicate devices through internet. 
 

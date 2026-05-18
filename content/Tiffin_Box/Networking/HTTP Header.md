@@ -1,4 +1,8 @@
-#basic #networking 
+---
+tags:
+  - basic
+  - networking
+---
 
 Headers are **key-value pairs** sent along with every HTTP request and response. They carry metadata (Extra information) — telling the server or browser _how_ to handle the message, _who_ is sending it, and _what_ it contains.
 

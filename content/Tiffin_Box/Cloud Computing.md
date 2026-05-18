@@ -1,5 +1,8 @@
-#cloud #networking 
-
+---
+tags:
+  - cloud
+  - networking
+---
 Using someone else's computers — over the internet — instead of buying and managing your own. 
 Cloud computing means renting computing resources (servers, storage, databases, networking) from a provider. We use what we need, when we need it, and pay for what we use.
 

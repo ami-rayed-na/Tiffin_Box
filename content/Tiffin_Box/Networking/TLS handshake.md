@@ -1,4 +1,9 @@
-#basic #networking #https
+---
+tags:
+  - basic
+  - networking
+  - https
+---
 
 TLS *(Transport Layer Security)* Handshake is the process used to establish a secure connection between a client (browser) and a server before actual data communication begins.
 

@@ -1,4 +1,7 @@
-#OSINT
+---
+tags:
+  - "#osnit"
+---
 
 ---
 ### Challenge Description

@@ -1,5 +1,8 @@
-#basic #linux 
-
+---
+tags:
+  - basic
+  - linux
+---
 Sorry, I don’t have an introduction for this topic in mind right now. I’ll update it when I come up with one. For now, let’s dive into the topic.
 
 ### cat 
