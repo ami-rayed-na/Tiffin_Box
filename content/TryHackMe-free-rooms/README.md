@@ -87,7 +87,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 - [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 - [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
